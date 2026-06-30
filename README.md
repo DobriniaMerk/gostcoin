@@ -1,3 +1,5 @@
+[![Downloads](https://img.shields.io/github/downloads/GOSTSec/gostcoin/total.svg)]()
+
 GOSTCoin Core
 =============
 
